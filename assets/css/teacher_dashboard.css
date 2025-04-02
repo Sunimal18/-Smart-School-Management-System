@@ -1,0 +1,22 @@
+/* assets/css/teacher_dashboard.css */
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f6f9;
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  .card .btn {
+    border-radius: 8px;
+  }
+  
+  /* Responsive tweaks */
+  @media (max-width: 768px) {
+    .card i {
+      font-size: 2.5rem;
+    }
+  }
+  

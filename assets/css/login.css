@@ -1,0 +1,40 @@
+/* assets/css/login.css */
+
+body, html {
+    height: 100%;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .login-wrapper {
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .login-card {
+    background-color: #fff;
+    padding: 30px 25px;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .login-logo {
+    width: 70px;
+  }
+  
+  .btn-block {
+    border-radius: 8px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 576px) {
+    .login-card {
+      padding: 25px 15px;
+    }
+  
+    .login-logo {
+      width: 60px;
+    }
+  }
+  

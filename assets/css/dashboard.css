@@ -1,0 +1,68 @@
+/* assets/css/dashboard.css */
+
+/* Hero Section with Background */
+.hero-section {
+    background: url('https://images.unsplash.com/photo-1601582583541-2231a1e86b02?auto=format&fit=crop&w=1350&q=80') center/cover no-repeat;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .hero-section .overlay {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0, 0, 50, 0.6);
+    z-index: 1;
+  }
+  
+  .hero-section .content {
+    position: relative;
+    z-index: 2;
+    max-width: 1000px;
+    padding: 20px;
+  }
+  
+  /* School Logo */
+  .school-logo {
+    width: 500px;
+    background: #fff;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(255,255,255,0.4);
+  }
+  
+  /* Card Customization */
+  .card {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .card-header {
+    border-radius: 12px 12px 0 0;
+  }
+  
+  .btn-block {
+    border-radius: 8px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #f1f1f1;
+    font-size: 0.9rem;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .hero-section h1 {
+      font-size: 2rem;
+    }
+  
+    .hero-section p {
+      font-size: 1rem;
+    }
+  
+    .school-logo {
+      width: 70px;
+    }
+  }
+  

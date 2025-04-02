@@ -1,0 +1,11 @@
+{
+    "name": "uditha/smart-class",
+    "autoload": {
+        "psr-4": {
+            "Uditha\\SmartClass\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
