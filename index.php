@@ -20,7 +20,7 @@
   <header class="hero-section text-white d-flex align-items-center justify-content-center text-center">
     <div class="overlay"></div>
     <div class="content">
-      <img src="library/logo.jpg" alt="School Logo" class="school-logo mb-3">
+      <img src="library/logo.webp" alt="School Logo" class="school-logo mb-3">
       <h1 class="display-4 font-weight-bold">Smart School System</h1>
       <p class="lead">Pu/Bandaranayakapura Maha Vidyalaya</p>
       <a href="login.php" class="btn btn-outline-light btn-lg mt-3">Teacher / Principal Login</a>
