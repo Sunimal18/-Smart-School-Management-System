@@ -22,7 +22,7 @@
     <div class="content">
       <img src="library/logo.webp" alt="School Logo" class="school-logo mb-3">
       <h1 class="display-4 font-weight-bold">Smart School System</h1>
-      <p class="lead">Pu/Bandaranayakapura Maha Vidyalaya</p>
+      <p class="lead">Ku/Ibbagamuwa modle School</p>
       <a href="login.php" class="btn btn-outline-light btn-lg mt-3">Teacher / Principal Login</a>
     </div>
   </header>
@@ -32,8 +32,8 @@
     <!-- School Info -->
     <div class="text-center mb-5">
       <h2 class="mb-2">Welcome to Our School</h2>
-      <p class="text-muted mb-1">Pu/Bandaranayakapura M.V. <br> Wanathawilluwa</p>
-      <p class="text-muted">📞 +94 714443274 | 📧 bandaranayakapuram@gmail.com</p>
+      <p class="text-muted mb-1">Ku/Ibbagamuwa modle School <br> Ibbagamuwa</p>
+      <p class="text-muted">📞 +94 123456789 | 📧 ibbagamuwaschool@gmail.com</p>
     </div>
 
     <!-- Parent Check Form -->
